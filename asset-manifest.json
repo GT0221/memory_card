@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/memory_card/static/css/main.e44dcc3e.chunk.css",
+    "main.js": "/memory_card/static/js/main.2a519a09.chunk.js",
+    "main.js.map": "/memory_card/static/js/main.2a519a09.chunk.js.map",
+    "runtime-main.js": "/memory_card/static/js/runtime-main.f4931afb.js",
+    "runtime-main.js.map": "/memory_card/static/js/runtime-main.f4931afb.js.map",
+    "static/js/2.3fd9b683.chunk.js": "/memory_card/static/js/2.3fd9b683.chunk.js",
+    "static/js/2.3fd9b683.chunk.js.map": "/memory_card/static/js/2.3fd9b683.chunk.js.map",
+    "index.html": "/memory_card/index.html",
+    "static/css/main.e44dcc3e.chunk.css.map": "/memory_card/static/css/main.e44dcc3e.chunk.css.map",
+    "static/js/2.3fd9b683.chunk.js.LICENSE.txt": "/memory_card/static/js/2.3fd9b683.chunk.js.LICENSE.txt",
+    "static/media/Balrog.png": "/memory_card/static/media/Balrog.2cd83f7f.png",
+    "static/media/Bison.png": "/memory_card/static/media/Bison.1f268566.png",
+    "static/media/Blanka.png": "/memory_card/static/media/Blanka.862e935a.png",
+    "static/media/Cammy.png": "/memory_card/static/media/Cammy.26231f0f.png",
+    "static/media/Chun_Li.png": "/memory_card/static/media/Chun_Li.cf844c34.png",
+    "static/media/Dhalsim.png": "/memory_card/static/media/Dhalsim.3386bf42.png",
+    "static/media/E_Honda.png": "/memory_card/static/media/E_Honda.4e1d5421.png",
+    "static/media/Guile.png": "/memory_card/static/media/Guile.5bcc7ffc.png",
+    "static/media/Ken.png": "/memory_card/static/media/Ken.d1d9dcc5.png",
+    "static/media/Ryu.png": "/memory_card/static/media/Ryu.5b33fdfa.png",
+    "static/media/Sagat.png": "/memory_card/static/media/Sagat.d729113d.png",
+    "static/media/Zangief.png": "/memory_card/static/media/Zangief.e383c4e5.png",
+    "static/media/index.css": "/memory_card/static/media/sf_logo.32843958.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4931afb.js",
+    "static/js/2.3fd9b683.chunk.js",
+    "static/css/main.e44dcc3e.chunk.css",
+    "static/js/main.2a519a09.chunk.js"
+  ]
+}
