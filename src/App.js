@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react';
 import Modal from './components/Modal';
 import Images from './components/Images';
 import ScoreBoard from './components/ScoreBoard';
+import './styles/App.css';
 
 function App() {
   const [clickedCharacter, setClickedCharacter] = useState([]);
