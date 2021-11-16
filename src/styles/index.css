@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    background-color: black;
+    background-image: url('/src/sf_images/sf_logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 75% 75%;
+}
